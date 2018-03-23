@@ -1,0 +1,72 @@
+/* .liveMtab, .liveFtab {
+	display: inline-block;
+	width: 50%;
+	height: auto;
+	text-align: center;
+	padding: 10px;
+	background-color: #0f1e30;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.liveMtab:hover, .liveFtab:hover {
+	cursor: pointer;
+	background-color: #fff;
+	color: #0f1e30;
+} */
+
+/* .liveMtab.active, .liveFtab.active {
+	cursor: pointer;
+	background-color: #fff;
+	color: #0f1e30;
+}
+
+.liveMtab:hover a, .liveFtab:hover a {
+	color: #0f1e30;
+}
+
+.liveMtab a, .liveFtab a {
+	color: #fff;
+}
+
+.liveMtab.active a, .liveFtab.active a {
+	color: #0f1e30;
+} */
+/* 
+.Mcircle {
+	position: relative;
+	border-radius: 50%;
+	width: 4%;;
+	height: auto;
+	background-color: darkorange;
+	display: inline-block;
+	left: 1%;
+}
+
+.Fcircle {
+	position: relative;
+	border-radius: 50%;
+	width: 4%;;
+	height: auto;
+	background-color: darkorange;
+	display: inline-block;
+	mix-blend-mode: multiply;
+	left: -1%;
+}
+
+.Mcontent {
+	position: inherit;
+	font-size: 20px;
+	font-weight: 800;
+	color: #fff;
+	padding: 5px 10px;
+}
+
+.Fcontent {
+	position: inherit;
+	font-size: 20px;
+	font-weight: 800;
+	color: #fff;
+	padding: 5px 10px;
+} */

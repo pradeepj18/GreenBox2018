@@ -1,0 +1,533 @@
+@media only screen and (max-width:320px) /* iphone */ {
+	#start, #stop, #reset {
+		padding: 0 20px;
+	}
+	.gfc {
+		color: #fff;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.img-circle {
+		border-radius: 50%;
+		min-width: 50px;
+		min-height: 50px;
+		max-width: 50px;
+		max-height: 50px;
+		position: relative;
+		margin-top: 5px;
+	}
+	.pname {
+		position: absolute;
+		margin-top: 20px;
+		font-size: 12px;
+		margin-left: 12px;
+		float: left;
+	}
+	.pjno {
+		margin-top: 20px;
+		font-size: 16px;
+		float: right;
+		font-weight: 800;
+	}
+	.collapsible-body {
+		padding: 15px 0px 0px 10px;
+	}
+	.collapsible-header {
+		line-height: 15px;
+	}
+	.card {
+		padding: 10px;
+	}
+	.card .card-title {
+		font-size: 28px;
+		font-weight: 800;
+		color: #fff;
+		margin-top: 15px;
+		position: absolute;
+		margin-left: 20px;
+	}
+	.card .card-title1 {
+		margin-top: 0px;
+		color: #fff;
+		font-size: 50px;
+		font-weight: 800;
+		float: right;
+	}
+	.card .card-minfo {
+		color: #fff;
+		font-size: 20px;
+		font-weight: 500;
+	}
+	.card .card-timer {
+		border-bottom: 0;
+		font-size: 100px;
+		height: 90px;
+		margin: 0;
+		color: #fff;
+	}
+	input[type="text"]:focus:not ([readonly] ) {
+		border-bottom: 0;
+		box-shadow: 0 0 0 0;
+	}
+	input[type="text"]:disabled {
+		color: #fff;
+		border-bottom: 0;
+	}
+	.collapsible span.badge {
+		margin-top: calc(1.1rem);
+	}
+	.scorer {
+		font-size: 20px;
+		line-height: 40px;
+		font-weight: 500;
+	}
+	span.badge {
+		min-width: 22px;
+		text-align: center;
+		font-size: 10px;
+		line-height: 22px;
+		height: 22px;
+		color: #fff;
+		box-sizing: border-box;
+		border-radius: 50%;
+		font-weight: 800;
+		max-width: 22px;
+		max-height: 22px;
+	}
+}
+
+@media only screen and (min-width:321px) and (max-width:600px)
+	/* other mobile */ {
+	.gfc {
+		color: #fff;
+		font-size: 18px;
+		font-weight: 400;
+	}
+	.img-circle {
+		border-radius: 50%;
+		min-width: 50px;
+		min-height: 50px;
+		max-width: 50px;
+		max-height: 50px;
+		position: relative;
+		margin-top: 5px;
+	}
+	.pname {
+		position: absolute;
+		margin-top: 20px;
+		font-size: 16px;
+		margin-left: 12px;
+		float: left;
+	}
+	.pjno {
+		margin-top: 20px;
+		font-size: 16px;
+		float: right;
+		font-weight: 800;
+	}
+	.collapsible-body {
+		padding: 15px 0px 0px 10px;
+	}
+	.collapsible-header {
+		line-height: 15px;
+	}
+	.card {
+		padding: 10px;
+	}
+	.card .card-title {
+		font-size: 28px;
+		font-weight: 800;
+		color: #fff;
+		margin-top: 15px;
+		position: absolute;
+		margin-left: 20px;
+	}
+	.card .card-title1 {
+		margin-top: 0px;
+		color: #fff;
+		font-size: 50px;
+		font-weight: 800;
+		float: right;
+	}
+	.card .card-minfo {
+		color: #fff;
+		font-size: 20px;
+		font-weight: 500;
+	}
+	.card .card-timer {
+		border-bottom: 0;
+		font-size: 100px;
+		height: 90px;
+		margin: 0;
+		color: #fff;
+	}
+	input[type="text"]:focus:not ([readonly] ) {
+		border-bottom: 0;
+		box-shadow: 0 0 0 0;
+	}
+	input[type="text"]:disabled {
+		color: #fff;
+		border-bottom: 0;
+	}
+	.collapsible span.badge {
+		margin-top: calc(1.1rem);
+	}
+	.scorer {
+		font-size: 20px;
+		line-height: 40px;
+		font-weight: 500;
+	}
+	span.badge {
+		min-width: 22px;
+		text-align: center;
+		font-size: 10px;
+		line-height: 22px;
+		height: 22px;
+		color: #fff;
+		box-sizing: border-box;
+		border-radius: 50%;
+		font-weight: 800;
+		max-width: 22px;
+		max-height: 22px;
+	}
+}
+
+@media only screen and (min-width:601px) and (max-width:992px)
+	/* tablet */ {
+	.gfc {
+		color: #fff;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.img-circle {
+		border-radius: 50%;
+		min-width: 50px;
+		min-height: 50px;
+		max-width: 50px;
+		max-height: 50px;
+		position: relative;
+		margin-top: 5px;
+	}
+	.pname {
+		position: absolute;
+		margin-top: 20px;
+		font-size: 20px;
+		margin-left: 12px;
+		float: left;
+	}
+	.pjno {
+		margin-top: 20px;
+		font-size: 20px;
+		float: right;
+		font-weight: 800;
+	}
+	.collapsible-body {
+		padding: 15px 0px 0px 10px;
+	}
+	.collapsible-header {
+		line-height: 15px;
+	}
+	.card {
+		padding: 10px;
+	}
+	.card .card-title {
+		font-size: 28px;
+		font-weight: 800;
+		color: #fff;
+		margin-top: 15px;
+		position: absolute;
+		margin-left: 20px;
+	}
+	.card .card-title1 {
+		margin-top: 0px;
+		color: #fff;
+		font-size: 50px;
+		font-weight: 800;
+		float: right;
+	}
+	.card .card-minfo {
+		color: #fff;
+		font-size: 20px;
+		font-weight: 500;
+	}
+	.card .card-timer {
+		border-bottom: 0;
+		font-size: 120px;
+		height: 120px;
+		margin: 0;
+		color: #fff;
+	}
+	input[type="text"]:focus:not ([readonly] ) {
+		border-bottom: 0;
+		box-shadow: 0 0 0 0;
+	}
+	input[type="text"]:disabled {
+		color: #fff;
+		border-bottom: 0;
+	}
+	.collapsible span.badge {
+		margin-top: calc(1.1rem);
+	}
+	.scorer {
+		font-size: 20px;
+		line-height: 40px;
+		font-weight: 500;
+	}
+	span.badge {
+		min-width: 30px;
+		text-align: center;
+		font-size: 16px;
+		line-height: 30px;
+		height: 30px;
+		color: #fff;
+		box-sizing: border-box;
+		border-radius: 50%;
+		font-weight: 800;
+		max-width: 30px;
+		max-height: 30px;
+	}
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px)
+	/* desktop */ {
+	.gfc {
+		color: #fff;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	span.badge {
+		min-width: 22px;
+		text-align: center;
+		font-size: 10px;
+		line-height: 22px;
+		height: 22px;
+		color: #fff;
+		box-sizing: border-box;
+		border-radius: 50%;
+		font-weight: 800;
+		max-width: 22px;
+		max-height: 22px;
+	}
+	.img-circle {
+		border-radius: 50%;
+		min-width: 50px;
+		min-height: 50px;
+		max-width: 50px;
+		max-height: 50px;
+		position: relative;
+		margin-top: 5px;
+	}
+	.pname {
+		position: absolute;
+		margin-top: 20px;
+		font-size: 16px;
+		margin-left: 6px;
+		float: left;
+	}
+	.pjno {
+		margin-top: 20px;
+		font-size: 16px;
+		float: right;
+		font-weight: 800;
+	}
+	.collapsible-body {
+		padding: 15px 0px 0px 10px;
+	}
+	.collapsible-header {
+		line-height: 15px;
+	}
+	.card {
+		padding: 10px;
+	}
+	.card .card-title {
+		font-size: 28px;
+		font-weight: 800;
+		color: #fff;
+		margin-top: 15px;
+		position: absolute;
+		margin-left: 20px;
+	}
+	.card .card-title1 {
+		margin-top: 0px;
+		color: #fff;
+		font-size: 50px;
+		font-weight: 800;
+		float: right;
+	}
+	.card .card-minfo {
+		color: #fff;
+		font-size: 28px;
+		font-weight: 500;
+	}
+	.card .card-timer {
+		border-bottom: 0;
+		font-size: 100px;
+		height: 90px;
+		margin: 0;
+		color: #fff;
+	}
+	input[type="text"]:focus:not ([readonly] ) {
+		border-bottom: 0;
+		box-shadow: 0 0 0 0;
+	}
+	input[type="text"]:disabled {
+		color: #fff;
+		border-bottom: 0;
+	}
+	.collapsible span.badge {
+		margin-top: calc(1.1rem);
+	}
+	.scorer {
+		font-size: 20px;
+		line-height: 40px;
+		font-weight: 500;
+	}
+	span.badge {
+		min-width: 20px;
+		text-align: center;
+		font-size: 16px;
+		line-height: 20px;
+		height: 20px;
+		color: #fff;
+		box-sizing: border-box;
+		border-radius: 50%;
+		font-weight: 800;
+		max-width: 30px;
+		max-height: 30px;
+	}
+}
+
+@media only screen and (min-width:1200px) /* large desktop */ {
+	.gfc {
+		color: #fff;
+		font-size: 20px;
+		font-weight: 400;
+	}
+	.img-circle {
+		border-radius: 50%;
+		min-width: 50px;
+		min-height: 50px;
+		max-width: 50px;
+		max-height: 50px;
+		position: relative;
+		margin-top: 5px;
+	}
+	.pname {
+		position: absolute;
+		margin-top: 20px;
+		font-size: 20px;
+		margin-left: 12px;
+		float: left;
+	}
+	.pjno {
+		margin-top: 20px;
+		font-size: 20px;
+		float: right;
+		font-weight: 800;
+	}
+	.collapsible-body {
+		padding: 15px 0px 0px 10px;
+	}
+	.collapsible-header {
+		line-height: 15px;
+	}
+	.card {
+		padding: 10px;
+	}
+	.card .card-title {
+		font-size: 28px;
+		font-weight: 800;
+		color: #fff;
+		margin-top: 15px;
+		position: absolute;
+		margin-left: 20px;
+	}
+	.card .card-title1 {
+		margin-top: 0px;
+		color: #fff;
+		font-size: 50px;
+		font-weight: 800;
+		float: right;
+	}
+	.card .card-minfo {
+		color: #fff;
+		font-size: 28px;
+		font-weight: 500;
+	}
+	.card .card-timer {
+		border-bottom: 0;
+		font-size: 120px;
+		height: 120px;
+		margin: 0;
+		color: #fff;
+	}
+	input[type="text"]:focus:not ([readonly] ) {
+		border-bottom: 0;
+		box-shadow: 0 0 0 0;
+	}
+	input[type="text"]:disabled {
+		color: #fff;
+		border-bottom: 0;
+	}
+	.collapsible span.badge {
+		margin-top: calc(1.1rem);
+	}
+	.scorer {
+		font-size: 20px;
+		line-height: 40px;
+		font-weight: 500;
+	}
+	span.badge {
+		min-width: 30px;
+		text-align: center;
+		font-size: 16px;
+		line-height: 30px;
+		height: 30px;
+		color: #fff;
+		box-sizing: border-box;
+		border-radius: 50%;
+		font-weight: 800;
+		max-width: 30px;
+		max-height: 30px;
+	}
+}
+
+.collapsible-body {
+	padding: 15px 0px 0px 10px;
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #ffffff;
+}
+
+.card, .collapsible {
+	border-radius: 0;
+	box-shadow: 0 0 0 0;
+}
+
+.collapsible-header:hover, .collapsible-header.active {
+	background-color: darkcyan !important; /* darkcyan */
+	color: #fff;
+	transition: all ease-in-out .1s;
+}
+
+.red {
+	background-color: #c62828 !important;
+}
+
+.timer-colon {
+	font-size: 120px;
+	color: #fff;
+	line-height: 120px;
+	text-align: center;
+}
+
+.modal.msgmodal {
+	width: 35%;
+	border-radius: 10px;
+	background-color: mediumseagreen;
+	color: #fff;
+	text-align: center;
+}
+
+.modal.msgmodal .modal-content {
+	padding: 15px;
+}

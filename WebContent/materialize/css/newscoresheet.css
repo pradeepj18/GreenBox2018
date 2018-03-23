@@ -1,0 +1,112 @@
+.title {
+	font-size: 18px;
+	font-weight: 500;
+	border-bottom: 2px solid #000;
+}
+
+.text-title {
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.text-info {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.thno {
+	width: 5%;
+	padding: 5px;
+	border-radius: 0;
+}
+
+.thpname {
+	padding: 5px;
+	border-radius: 0;
+}
+
+table, td, tr, th {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.tdno {
+	width: 5%;
+	padding: 0 5px;
+	border-radius: 0;
+}
+
+.tdpname {
+	padding: 0 5px;
+	border-radius: 0;
+}
+
+.thscore, .thteam {
+	width: 25%;
+	padding: 5px;
+	border-radius: 0;
+	padding: 5px;
+}
+
+.winner {
+	margin-top: 30px;
+}
+
+@media print {
+	@page {
+		size: A4;
+		margin: 0cm;
+	}
+	.row {
+		margin: 0;
+	}
+	.title {
+		font-size: 18px;
+		font-weight: 500;
+		border-bottom: 2px solid #000;
+	}
+	.text-title {
+		font-size: 10px;
+		font-weight: 400;
+	}
+	.text-info {
+		font-size: 12px;
+		font-weight: 600;
+	}
+	table, td, tr, th {
+		border-collapse: collapse;
+		border: 1px solid black;
+	}
+	.thno {
+		width: 3%;
+		padding: 5px;
+		border-radius: 0;
+		font-size: 14px;
+	}
+	.thpname {
+		padding: 5px;
+		border-radius: 0;
+		font-size: 14px;
+	}
+	.tdno {
+		width: 3%;
+		padding: 0 5px;
+		border-radius: 0;
+		font-size: 12px;
+	}
+	.tdpname {
+		padding: 0 5px;
+		border-radius: 0;
+		font-size: 12px;
+	}
+	.thscore, .thteam {
+		font-size: 12px;
+		width: 25%;
+		padding: 5px;
+		border-radius: 0;
+		padding: 5px;
+	}
+	.winner {
+		margin-top: 0px;
+	}
+}
